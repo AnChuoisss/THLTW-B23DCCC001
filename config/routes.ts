@@ -50,6 +50,12 @@
 	// 		},
 	// 	],
 	// },
+	{
+		path: '/todo-list',
+		name: 'To-Do List',
+		component: './TodoList/TodoList', // Chỉ cần đúng thư mục
+		icon: 'CheckSquareOutlined',
+	},
 
 	{
 		path: '/notification',
